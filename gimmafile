@@ -1,0 +1,21 @@
+{
+  "name": "GimmaToken Sepolia Testnet",
+  "logoURI": "https://raw.githubusercontent.com/Zendl45/gimma-token-sepolia/main/gimma.png",
+  "keywords": ["sepolia", "testnet", "erc20"],
+  "timestamp": "2025-01-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x2Ac7D4dEb581172b70d9274D2102d6DCFdf9dD78",
+      "name": "GimmaToken",
+      "symbol": "GIMMA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zendl45/gimma-token-sepolia/main/gimma.png"
+    }
+  ]
+}
